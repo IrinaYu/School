@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<catalog>Top five books for testers
+   <book id="1">
+      <author>Cem Kaner, Jack L. Falk</author>
+      <title>Testing computer software</title>
+      <genre>Computer testing</genre>
+      <number_of_pages>496</number_of_pages>
+      <publish_date>April 1999</publish_date>
+      <description>This book will teach you how to test computer software under real-world conditions. The authors have all been test managers and software development managers at well-known Silicon Valley software companies. Successful consumer software companies have learned how to produce high-quality products under tight time and budget constraints. The book explains the testing side of that success.</description>
+	  <ISBN>978-0-471-35846-6</ISBN>
+   </book>   
+   <book id="2">
+      <author>Роман Савин</author>
+      <title>Тестирование dot com</title>
+      <genre>Компьютерная литература</genre>
+      <number_of_pages>312</number_of_pages>
+      <publish_date>2011</publish_date>
+      <description>Этот курс лекций создан для тех, кто хочет обучиться тестированию, получить работу тестировщика в российской или западной интернет-компании, понять, как вести себя в корпоративном окружении, и добиться профессионального и личностного роста. Он будет интересен и участникам процесса разработки программного обеспечения, рекрутерам, людям, связанным с интернетом или пишущим о нем, и просто всем желающим понять кухню интернет-стартапов.</description>
+	  <ISBN>978-5-7749-0460-0</ISBN>
+   </book>
+   <book id="3">
+      <author>Ron Patton</author>
+      <title>Software Testing</title>
+      <genre>Computer testing </genre>
+      <number_of_pages>408</number_of_pages>
+      <publish_date>2005</publish_date>
+      <description>Second Edition provides practical insight into the world of software testing and quality assurance. Learn how to find problems in any computer program, how to plan an effective test approach and how to tell when software is ready for release. Updated from the previous edition in 2000 to include a chapter that specifically deals with testing software for security bugs, the processes and techniques used throughout the book are timeless. This book is an excellent investment if you want to better understand what your Software Test team does or you want to write better software.</description>
+	  <ISBN>0672327988</ISBN>
+   </book>   
+   <book id="4">
+      <author>Glenford J. Myers, Corey Sandler, Tom Badgett </author>
+      <title>The Art of Software Testing, 3rd Edition</title>
+      <genre>Computer testing</genre>
+      <number_of_pages>256</number_of_pages>
+      <publish_date>December 2011</publish_date>
+      <description>The hardware and software of computing have changed markedly in the three decades since the first edition of The Art of Software Testing, but this book's powerful underlying analysis has stood the test of time. Whereas most books on software testing target particular development techniques, languages, or testing methods, The Art of Software Testing, Third Edition provides a brief but powerful and comprehensive presentation of time-proven software testing approaches. If your software development project is mission critical, this book is an investment that will pay for itself with the first bug you find.</description>
+	  <ISBN>978-1-118-03196-4</ISBN>
+   </book>   
+   <book id="5">
+      <author>Lee Copeland</author>
+      <title>A Practitioner's Guide to Software Test Design</title>
+      <genre>Computer testing</genre>
+      <number_of_pages>300</number_of_pages>
+      <publish_date>2003</publish_date>
+      <description>Comprehensive, up-to-date, and practical, A Practitioner's Guide to Software Test Design introduces you to today's most important test design techniques in a single, easy-to-understand volume, in 16 chapters specifically formatted to promote rapid learning, the book helps you:
+- Learn the best test design techniques, from the classics to the most modern;
+- Create test cases that are more effective and efficient in finding defects;
+- Deal effectively with the "too many tests, too little time" dilemma. </description>
+	  <ISBN> 158053791X </ISBN>
+	</book>
+</catalog>
