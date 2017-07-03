@@ -1,4 +1,4 @@
-import java.util.List;
+﻿import java.util.List;
 import java.util.concurrent.TimeUnit;
 import org.junit.*;
 import static org.junit.Assert.*;
@@ -29,14 +29,14 @@ public class Mail {
 
         driver.findElement(By.linkText("Почта")).click();
         driver.findElement(By.id("Email")).clear();
-        driver.findElement(By.id("Email")).sendKeys("iraira33111");
+        driver.findElement(By.id("Email")).sendKeys("some_mail");
         driver.findElement(By.id("next")).click();
         driver.findElement(By.id("Passwd")).clear();
         driver.findElement(By.id("Passwd")).sendKeys("parolqwerty");
         driver.findElement(By.id("signIn")).click();
         driver.findElement(By.xpath("//div[@id=':32']/div/div")).click();
         driver.findElement(By.id(":89")).clear();
-        driver.findElement(By.id(":89")).sendKeys("irinayurchenko27@gmail.com");
+        driver.findElement(By.id(":89")).sendKeys("some_mail2@gmail.com");
         driver.findElement(By.id(":7t")).click();
         driver.findElement(By.id(":7t")).clear();
         driver.findElement(By.id(":7t")).sendKeys(searchWord);
